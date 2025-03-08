@@ -1,0 +1,25 @@
+Student Marks Evaluation System – Project Summary
+Introduction
+The Student Marks Evaluation System is a Java-based console application designed to assess student performance across multiple subjects. The program allows users to input marks for five subjects, calculates the total and average scores, determines pass/fail status, and assigns appropriate grades.
+
+Objectives
+To automate student performance evaluation.
+To calculate total and average marks efficiently.
+To determine pass/fail status for each subject.
+To assign grades based on predefined score ranges.
+Features
+✅ User Input for Marks – Accepts marks for five subjects.
+✅ Pass/Fail Determination – Identifies failed subjects (marks < 35).
+✅ Total & Average Calculation – Computes total marks and average score.
+✅ Grading System – Assigns grades (O, A, B, C, D, E, Fail) based on the average.
+✅ Console-Based Execution – Lightweight and beginner-friendly implementation.
+
+Technology Used
+Programming Language: Java
+Development Tools: Any Java IDE (Eclipse, IntelliJ IDEA, VS Code)
+Concepts Used: Loops, Conditionals, Arrays, Scanner Class
+Future Enhancements
+Adding a GUI interface using JavaFX or Swing.
+Implementing database storage for student records.
+Allowing multiple student evaluations in one execution.
+This project is ideal for beginners learning Java fundamentals and logic-building skills. 🚀
